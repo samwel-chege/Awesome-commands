@@ -1,5 +1,6 @@
 # Awesome-commands
 Sometimes it takes long to search for that one command to debug something or even install a dependency.. I will randomly write them down here
+- Actually I am going to also add some important links to resources
 
 ### Set up tailwindcss in react app
 
@@ -14,4 +15,5 @@ The init command generates tailwind.config.js and postcss.config.js files
 ```bash
 sudo service postgresql start
 ```
-
+### adding tailwindcss to our django app
+ -check out (django + tailwind)[https://django-tailwind.readthedocs.io/en/latest/installation.html]
