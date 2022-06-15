@@ -16,4 +16,4 @@ The init command generates tailwind.config.js and postcss.config.js files
 sudo service postgresql start
 ```
 ### adding tailwindcss to our django app
- -check out (django + tailwind)[https://django-tailwind.readthedocs.io/en/latest/installation.html]
+ -check out [django + tailwind](https://django-tailwind.readthedocs.io/en/latest/installation.html)
