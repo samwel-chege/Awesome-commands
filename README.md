@@ -11,9 +11,17 @@ npx tailwindcss init -p
 The init command generates tailwind.config.js and postcss.config.js files
 
 ### psql : error: could not connect to server: No such file or directory 
+- use the command below to start postgresql
 
 ```bash
 sudo service postgresql start
 ```
-### adding tailwindcss to our django app
- -check out [django + tailwind](https://django-tailwind.readthedocs.io/en/latest/installation.html)
+### Adding tailwindcss to our django app
+- check out [django + tailwind](https://django-tailwind.readthedocs.io/en/latest/installation.html)
+
+ ## Geting a JWT_SECRET token
+- Go to your terminal and run the following command
+```bash
+openssl rand -base64 32
+```
+- or you can alternatively use this link -  https://generate-secret.vercel.app/32
